@@ -38,10 +38,6 @@ nav
     word-spacing: 3px;
     letter-spacing: 1px;
 }
-.nav-item:hover
-{
-    border-bottom: 2px solid #14CC60;
-}
 
 #back-button
 {

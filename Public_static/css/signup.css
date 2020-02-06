@@ -187,9 +187,10 @@ h3 {
 
 .button {
   margin-top: 20px;
-  background-color: #0069d9;
+  background-color: #14CC60;
+  border: none;
   color: white;
   height: 50px;
   font-size: 22px;
-  border-radius: 30px;
+  border-radius: .25rem;
 }
